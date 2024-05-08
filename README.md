@@ -1,5 +1,5 @@
 # EXPERIMENT--06-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER
-
+## DATE : 27/4/2024
 ### Aim:
 To generate a PWM wave at the timer pin output and  simuate it on  proteus using an virtual oscilloscope  
 
